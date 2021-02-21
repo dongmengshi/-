@@ -1,0 +1,151 @@
+PMID- 29207975
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180723
+LR  - 20181113
+IS  - 1471-2407 (Electronic)
+IS  - 1471-2407 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2017 Dec 6
+TI  - Radiomics based analysis to predict local control and survival in hepatocellular 
+      carcinoma patients treated with volumetric modulated arc therapy.
+PG  - 829
+LID - 10.1186/s12885-017-3847-7 [doi]
+LID - 829
+AB  - BACKGROUND: To appraise the ability of a radiomics based analysis to predict local 
+      response and overall survival for patients with hepatocellular carcinoma. METHODS: A 
+      set of 138 consecutive patients (112 males and 26 females, median age 66 years) 
+      presented with Barcelona Clinic Liver Cancer (BCLC) stage A to C were 
+      retrospectively studied. For a subset of these patients (106) complete information 
+      about treatment outcome, namely local control, was available. Radiomic features were 
+      computed for the clinical target volume. A total of 35 features were extracted and 
+      analyzed. Univariate analysis was used to identify clinical and radiomics 
+      significant features. Multivariate models by Cox-regression hazards model were built 
+      for local control and survival outcome. Models were evaluated by area under the 
+      curve (AUC) of receiver operating characteristic (ROC) curve. For the LC analysis, 
+      two models selecting two groups of uncorrelated features were analyzes while one 
+      single model was built for the OS analysis. RESULTS: The univariate analysis lead to 
+      the identification of 15 significant radiomics features but the analysis of cross 
+      correlation showed several cross related covariates. The un-correlated variables 
+      were used to build two separate models; both resulted into a single significant 
+      radiomic covariate: model-1: energy p < 0.05, AUC of ROC 0.6659, C.I.: 
+      0.5585-0.7732; model-2: GLNU p < 0.05, AUC 0.6396, C.I.:0.5266-0.7526. The 
+      univariate analysis for covariates significant with respect to local control 
+      resulted in 9 clinical and 13 radiomics features with multiple and complex 
+      cross-correlations. After elastic net regularization, the most significant 
+      covariates were compacity and BCLC stage, with only compacity significant to Cox 
+      model fitting (Cox model likelihood ratio test p < 0.0001, compacity p < 0.00001; 
+      AUC of the model is 0.8014 (C.I. = 0.7232-0.8797)). CONCLUSION: A robust radiomic 
+      signature, made by one single feature was finally identified. A validation phases, 
+      based on independent set of patients is scheduled to be performed to confirm the 
+      results.
+FAU - Cozzi, Luca
+AU  - Cozzi L
+AD  - Radiotherapy and Radiosurgery Department, Humanitas Clinical and Research Hospital, 
+      Rozzano, Italy. luca.cozzi@humanitas.it.
+AD  - Department of Biomedical Sciences Humanitas University, Rozzano, Italy. 
+      luca.cozzi@humanitas.it.
+AD  - Humanitas Cancer Center and Research Hospital, Via Manzoni 56, 20089, Rozzano, 
+      Milano, Italy. luca.cozzi@humanitas.it.
+FAU - Dinapoli, Nicola
+AU  - Dinapoli N
+AD  - Polo Scienze Oncologiche ed Ematologiche, Fondazione Policlinico, Universitario 
+      Agostino Gemelli, Rome, Italy.
+FAU - Fogliata, Antonella
+AU  - Fogliata A
+AD  - Radiotherapy and Radiosurgery Department, Humanitas Clinical and Research Hospital, 
+      Rozzano, Italy.
+FAU - Hsu, Wei-Chung
+AU  - Hsu WC
+AD  - Department of Radiation Oncology, Cheng-Ching General Hospital, Taichung, Taiwan.
+FAU - Reggiori, Giacomo
+AU  - Reggiori G
+AD  - Radiotherapy and Radiosurgery Department, Humanitas Clinical and Research Hospital, 
+      Rozzano, Italy.
+FAU - Lobefalo, Francesca
+AU  - Lobefalo F
+AD  - Radiotherapy and Radiosurgery Department, Humanitas Clinical and Research Hospital, 
+      Rozzano, Italy.
+FAU - Kirienko, Margarita
+AU  - Kirienko M
+AD  - Nuclear Medicine Department, Humanitas Clinical and Research Hospital, Rozzano, 
+      Italy.
+FAU - Sollini, Martina
+AU  - Sollini M
+AD  - Nuclear Medicine Department, Humanitas Clinical and Research Hospital, Rozzano, 
+      Italy.
+FAU - Franceschini, Davide
+AU  - Franceschini D
+AD  - Radiotherapy and Radiosurgery Department, Humanitas Clinical and Research Hospital, 
+      Rozzano, Italy.
+FAU - Comito, Tiziana
+AU  - Comito T
+AD  - Radiotherapy and Radiosurgery Department, Humanitas Clinical and Research Hospital, 
+      Rozzano, Italy.
+FAU - Franzese, Ciro
+AU  - Franzese C
+AD  - Radiotherapy and Radiosurgery Department, Humanitas Clinical and Research Hospital, 
+      Rozzano, Italy.
+FAU - Scorsetti, Marta
+AU  - Scorsetti M
+AD  - Radiotherapy and Radiosurgery Department, Humanitas Clinical and Research Hospital, 
+      Rozzano, Italy.
+AD  - Department of Biomedical Sciences Humanitas University, Rozzano, Italy.
+FAU - Wang, Po-Ming
+AU  - Wang PM
+AD  - Department of Radiation Oncology, Cheng-Ching General Hospital, Taichung, Taiwan.
+LA  - eng
+PT  - Journal Article
+DEP - 20171206
+TA  - BMC Cancer
+JT  - BMC cancer
+JID - 100967800
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Area Under Curve
+MH  - Carcinoma, Hepatocellular/*diagnostic imaging/mortality/radiotherapy
+MH  - Female
+MH  - Humans
+MH  - Liver/*diagnostic imaging/pathology
+MH  - Liver Neoplasms/*diagnostic imaging/mortality/radiotherapy
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Proportional Hazards Models
+MH  - ROC Curve
+MH  - Radiotherapy, Intensity-Modulated
+MH  - Retrospective Studies
+MH  - Tomography, X-Ray Computed
+MH  - Treatment Outcome
+PMC - PMC5718116
+OTO - NOTNLM
+OT  - Hepatocellular carcinoma
+OT  - Liver cancer
+OT  - Outcome prediction
+OT  - Radiomics; texture analysis
+OT  - VMAT
+COIS- ETHICS APPROVAL AND CONSENT TO PARTICIPATE: This is a retrospective study approved 
+      by notification by the Cheng Chin hospital’s Ethical Review Committee. Informed 
+      consent to participate in the study was obtained from each patient at admission. 
+      CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: L. Cozzi acts as 
+      Scientific Advisor to Varian Medical Systems and is Clinical Research Scientist at 
+      Humanitas Cancer Center. All other co-authors have no conflicts of interest. No 
+      other conflict or source should be disclosed. PUBLISHER’S NOTE: Springer Nature 
+      remains neutral with regard to jurisdictional claims in published maps and 
+      institutional affiliations.
+EDAT- 2017/12/07 06:00
+MHDA- 2018/07/24 06:00
+CRDT- 2017/12/07 06:00
+PHST- 2017/07/24 00:00 [received]
+PHST- 2017/11/27 00:00 [accepted]
+PHST- 2017/12/07 06:00 [entrez]
+PHST- 2017/12/07 06:00 [pubmed]
+PHST- 2018/07/24 06:00 [medline]
+AID - 10.1186/s12885-017-3847-7 [pii]
+AID - 3847 [pii]
+AID - 10.1186/s12885-017-3847-7 [doi]
+PST - epublish
+SO  - BMC Cancer. 2017 Dec 6;17(1):829. doi: 10.1186/s12885-017-3847-7.

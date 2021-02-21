@@ -1,0 +1,83 @@
+PMID- 23224678
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130626
+LR  - 20181113
+IS  - 1573-7373 (Electronic)
+IS  - 0167-594X (Linking)
+VI  - 111
+IP  - 2
+DP  - 2013 Jan
+TI  - Measurements of heterogeneity in gliomas on computed tomography relationship to 
+      tumour grade.
+PG  - 213-9
+LID - 10.1007/s11060-012-1010-5 [doi]
+AB  - To undertake a preliminary study that uses CT texture analysis (CTTA) to quantify 
+      heterogeneity in gliomas on contrast-enhanced CT and to assess the relationship 
+      between tumour heterogeneity and grade. Retrospective analysis of contrast enhanced 
+      CT images was performed in 44 patients with histologically proven cerebral glioma 
+      between 2007 and 2010. 11 tumours were low grade (Grade I = 3; Grade II, = 8) and 33 
+      high grade (Grade III = 10, Grade IV = 23). CTTA assessment of tumour heterogeneity 
+      was performed using a proprietary software algorithm (TexRAD) that selectively 
+      filters and extracts textures at different anatomical scales between filter values 
+      1.0 (fine detail) and 2.5 (coarse features). Heterogeneity was quantified as 
+      standard deviation (SD) with or without filtration. Tumour heterogeneity, size and 
+      attenuation were correlated with tumour grade. For each parameter, receiver 
+      operating characteristics characterised the diagnostic performance for 
+      discrimination of high grade from low grade glioma and of grade III tumours from 
+      grade IV. Further the CTTA was compared to the radiological diagnosis. Tumour 
+      heterogeneity correlated significantly with grade (SD without filtration rs = 0.664, 
+      p < 0.001, SD with coarse filtration (rs = 0.714, p < 0.001). Tumour size and 
+      attenuation showed only moderate correlations with tumour grade (rs = 0.426, p = 
+      0.004 and rs = 0.447, p = 0.002 respectively). Coarse texture was the best 
+      discriminator between high and low grade tumours (AUC 0.832, p < 0.0001) and between 
+      grade III and grade IV gliomas (AUC = 0.878 p = 0.0001). Compared to the 
+      radiological diagnosis, CTTA further characterised the indetermined cases. By 
+      quantifying tumour heterogeneity, CTTA has the potential to provide a marker of 
+      tumour grade for patients with cerebral glioma. By differentiating between high and 
+      low grade tumours, CTTA could possibly assist clinical management.
+FAU - Skogen, Karoline
+AU  - Skogen K
+AD  - Brighton and Sussex Medical School, Brighton, UK. karolineskogen@hotmail.com
+FAU - Ganeshan, Balaji
+AU  - Ganeshan B
+FAU - Good, Catriona
+AU  - Good C
+FAU - Critchley, Giles
+AU  - Critchley G
+FAU - Miles, Ken
+AU  - Miles K
+LA  - eng
+PT  - Journal Article
+DEP - 20121206
+PL  - United States
+TA  - J Neurooncol
+JT  - Journal of neuro-oncology
+JID - 8309335
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Algorithms
+MH  - Brain/*diagnostic imaging
+MH  - Brain Neoplasms/*diagnostic imaging/pathology
+MH  - Female
+MH  - Glioma/*diagnostic imaging/pathology
+MH  - Humans
+MH  - Male
+MH  - Pilot Projects
+MH  - ROC Curve
+MH  - Retrospective Studies
+MH  - Severity of Illness Index
+MH  - Tomography, X-Ray Computed/*methods
+EDAT- 2012/12/12 06:00
+MHDA- 2013/06/28 06:00
+CRDT- 2012/12/11 06:00
+PHST- 2011/12/05 00:00 [received]
+PHST- 2012/11/20 00:00 [accepted]
+PHST- 2012/12/11 06:00 [entrez]
+PHST- 2012/12/12 06:00 [pubmed]
+PHST- 2013/06/28 06:00 [medline]
+AID - 10.1007/s11060-012-1010-5 [doi]
+PST - ppublish
+SO  - J Neurooncol. 2013 Jan;111(2):213-9. doi: 10.1007/s11060-012-1010-5. Epub 2012 Dec 
+      6.

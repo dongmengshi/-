@@ -1,0 +1,69 @@
+PMID- 29218267
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2218-6751 (Print)
+IS  - 2226-4477 (Electronic)
+IS  - 2218-6751 (Linking)
+VI  - 6
+IP  - 6
+DP  - 2017 Dec
+TI  - Radiomics in precision medicine for lung cancer.
+PG  - 635-647
+LID - 10.21037/tlcr.2017.09.07 [doi]
+AB  - With the improvement of external radiotherapy delivery accuracy, such as 
+      intensity-modulated and stereotactic body radiation therapy, radiation oncology has 
+      recently entered in the era of precision medicine. Despite these precise irradiation 
+      modalities, lung cancers remain one of the most aggressive human cancers worldwide, 
+      possibly because of diverse genotypic alterations that drive and maintain lung 
+      tumorigenesis. It has been long recognized that imaging could aid in the diagnosis, 
+      tumor delineation, and monitoring of lung cancer. Moreover, accumulating evidence 
+      suggests that imaging information could be further used to tailor treatment type and 
+      intensity, as well as predict treatment outcomes in radiotherapy. However, these 
+      imaging tasks have been carried out either qualitatively or using simplistic metrics 
+      that doesn't take advantage of the full scale of imaging knowledge. Radiomics, which 
+      is a recent field of research that aims to provide a more quantitative 
+      representation of imaging information relating tumor phenotypes to clinical and 
+      genotypic endpoints by embedding extracted image features into predictive 
+      mathematical models. These predictive models can be a key component in the clinician 
+      decision making and treatment personalization. This review provides an overview of 
+      the radiomics application and its methodology for radiation oncology studies in lung 
+      cancer.
+FAU - Constanzo, Julie
+AU  - Constanzo J
+AD  - Université de Strasbourg, CNRS, IPHC UMR 7178, Strasbourg F-67000, France.
+FAU - Wei, Lise
+AU  - Wei L
+AD  - Department of Radiation Oncology, Physics Division, University of Michigan, Ann 
+      Arbor, MI 48103, USA.
+FAU - Tseng, Huan-Hsin
+AU  - Tseng HH
+AD  - Department of Radiation Oncology, Physics Division, University of Michigan, Ann 
+      Arbor, MI 48103, USA.
+FAU - El Naqa, Issam
+AU  - El Naqa I
+AD  - Department of Radiation Oncology, Physics Division, University of Michigan, Ann 
+      Arbor, MI 48103, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - Transl Lung Cancer Res
+JT  - Translational lung cancer research
+JID - 101646875
+PMC - PMC5709132
+OTO - NOTNLM
+OT  - Quantitative imaging
+OT  - biomarkers
+OT  - lung cancer
+OT  - radiomics
+COIS- Conflicts of Interest: The authors have no conflicts of interest to declare.
+EDAT- 2017/12/09 06:00
+MHDA- 2017/12/09 06:01
+CRDT- 2017/12/09 06:00
+PHST- 2017/12/09 06:00 [entrez]
+PHST- 2017/12/09 06:00 [pubmed]
+PHST- 2017/12/09 06:01 [medline]
+AID - tlcr-06-06-635 [pii]
+AID - 10.21037/tlcr.2017.09.07 [doi]
+PST - ppublish
+SO  - Transl Lung Cancer Res. 2017 Dec;6(6):635-647. doi: 10.21037/tlcr.2017.09.07.

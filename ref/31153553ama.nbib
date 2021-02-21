@@ -1,0 +1,144 @@
+PMID- 31153553
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190904
+LR  - 20190904
+IS  - 1872-7727 (Electronic)
+IS  - 0720-048X (Linking)
+VI  - 116
+DP  - 2019 Jul
+TI  - A deep learning radiomics model for preoperative grading in meningioma.
+PG  - 128-134
+LID - S0720-048X(19)30156-1 [pii]
+LID - 10.1016/j.ejrad.2019.04.022 [doi]
+AB  - OBJECTIVES: To noninvasively differentiate meningioma grades by deep learning 
+      radiomics (DLR) model based on routine post-contrast MRI. METHODS: We enrolled 181 
+      patients with histopathologic diagnosis of meningioma who received post-contrast MRI 
+      preoperative examinations from 2 hospitals (99 in the primary cohort and 82 in the 
+      validation cohort). All the tumors were segmented based on post-contrast axial T1 
+      weighted images (T1WI), from which 2048 deep learning features were extracted by the 
+      convolutional neural network. The random forest algorithm was used to select 
+      features with importance values over 0.001, upon which a deep learning signature was 
+      built by a linear discriminant analysis classifier. The performance of our DLR model 
+      was assessed by discrimination and calibration in the independent validation cohort. 
+      For comparison, a radiomic model based on hand-crafted features and a fusion model 
+      were built. RESULTS: The DLR signature comprised 39 deep learning features and 
+      showed good discrimination performance in both the primary and validation cohorts. 
+      The area under curve (AUC), sensitivity, and specificity for predicting meningioma 
+      grades were 0.811(95% CI, 0.635-0.986), 0.769, and 0.898 respectively in the 
+      validation cohort. DLR performance was superior over the hand-crafted features. 
+      Calibration curves of DLR model showed good agreements between the prediction 
+      probability and the observed outcome of high-grade meningioma. CONCLUSIONS: Using 
+      routine MRI data, we developed a DLR model with good performance for noninvasively 
+      individualized prediction of meningioma grades, which achieved a quantization 
+      capability superior over the hand-crafted features. This model has potential to 
+      guide and facilitate the clinical decision-making of whether to observe or to treat 
+      patients by providing prognostic information.
+CI  - Copyright © 2019. Published by Elsevier B.V.
+FAU - Zhu, Yongbei
+AU  - Zhu Y
+AD  - School of Automation, Harbin University of Science and Technology, Heilongjiang, 
+      Harbin, 150080, China; CAS Key Laboratory of Molecular Imaging, Institute of 
+      Automation, Chinese Academy of Sciences, Beijing, 100190, China; Beijing Advanced 
+      Innovation Center for Big Data-Based Precision Medicine, School of Medicine, Beihang 
+      University, Beijing, 100191, China.
+FAU - Man, Chuntao
+AU  - Man C
+AD  - School of Automation, Harbin University of Science and Technology, Heilongjiang, 
+      Harbin, 150080, China.
+FAU - Gong, Lixin
+AU  - Gong L
+AD  - Sino-Dutch Biomedical and Information Engineering School, Northeastern University, 
+      Shenyang, 110169, China.
+FAU - Dong, Di
+AU  - Dong D
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Chinese Academy of 
+      Sciences, Beijing, 100190, China; University of Chinese Academy of Sciences, 
+      Beijing, 100080, China.
+FAU - Yu, Xinyi
+AU  - Yu X
+AD  - Imaging Center, Wuxi People's Hospital, Nanjing Medical University, Wuxi, 214000, 
+      China.
+FAU - Wang, Shuo
+AU  - Wang S
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Chinese Academy of 
+      Sciences, Beijing, 100190, China; University of Chinese Academy of Sciences, 
+      Beijing, 100080, China.
+FAU - Fang, Mengjie
+AU  - Fang M
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Chinese Academy of 
+      Sciences, Beijing, 100190, China; University of Chinese Academy of Sciences, 
+      Beijing, 100080, China.
+FAU - Wang, Siwen
+AU  - Wang S
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Chinese Academy of 
+      Sciences, Beijing, 100190, China; University of Chinese Academy of Sciences, 
+      Beijing, 100080, China.
+FAU - Fang, Xiangming
+AU  - Fang X
+AD  - Imaging Center, Wuxi People's Hospital, Nanjing Medical University, Wuxi, 214000, 
+      China. Electronic address: drfxm@163.com.
+FAU - Chen, Xuzhu
+AU  - Chen X
+AD  - Department of Radiology, Beijing Tiantan Hospital, Capital Medical University, 
+      Beijing, 100050, China. Electronic address: radiology888@aliyun.com.
+FAU - Tian, Jie
+AU  - Tian J
+AD  - CAS Key Laboratory of Molecular Imaging, Institute of Automation, Chinese Academy of 
+      Sciences, Beijing, 100190, China; Beijing Advanced Innovation Center for Big 
+      Data-Based Precision Medicine, School of Medicine, Beihang University, Beijing, 
+      100191, China; Sino-Dutch Biomedical and Information Engineering School, 
+      Northeastern University, Shenyang, 110169, China; Engineering Research Center of 
+      Molecular and Neuro Imaging of Ministry of Education, School of Life Science and 
+      Technology, Xidian University, Xi'an, 710126, China. Electronic address: 
+      tian@ieee.org.
+LA  - eng
+PT  - Journal Article
+DEP - 20190501
+PL  - Ireland
+TA  - Eur J Radiol
+JT  - European journal of radiology
+JID - 8106411
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Algorithms
+MH  - Area Under Curve
+MH  - Cohort Studies
+MH  - *Deep Learning
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Meningeal Neoplasms/*diagnostic imaging/*pathology
+MH  - Meninges/diagnostic imaging/pathology
+MH  - Meningioma/*diagnostic imaging/*pathology
+MH  - Middle Aged
+MH  - Neoplasm Grading
+MH  - Preoperative Care/*methods
+MH  - Prognosis
+MH  - Reproducibility of Results
+MH  - Retrospective Studies
+MH  - Sensitivity and Specificity
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Deep learning
+OT  - Magnetic resonance imaging
+OT  - Meningioma
+OT  - Radiomics
+OT  - Tumor grading
+EDAT- 2019/06/04 06:00
+MHDA- 2019/09/05 06:00
+CRDT- 2019/06/03 06:00
+PHST- 2019/01/14 00:00 [received]
+PHST- 2019/04/09 00:00 [revised]
+PHST- 2019/04/29 00:00 [accepted]
+PHST- 2019/06/03 06:00 [entrez]
+PHST- 2019/06/04 06:00 [pubmed]
+PHST- 2019/09/05 06:00 [medline]
+AID - S0720-048X(19)30156-1 [pii]
+AID - 10.1016/j.ejrad.2019.04.022 [doi]
+PST - ppublish
+SO  - Eur J Radiol. 2019 Jul;116:128-134. doi: 10.1016/j.ejrad.2019.04.022. Epub 2019 May 
+      1.

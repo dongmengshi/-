@@ -1,0 +1,108 @@
+PMID- 31153390
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191111
+LR  - 20191111
+IS  - 1724-191X (Electronic)
+IS  - 1120-1797 (Linking)
+VI  - 62
+DP  - 2019 Jun
+TI  - Neo-adjuvant chemoradiotherapy response prediction using MRI based ensemble learning 
+      method in rectal cancer patients.
+PG  - 111-119
+LID - S1120-1797(19)30057-2 [pii]
+LID - 10.1016/j.ejmp.2019.03.013 [doi]
+AB  - OBJECTIVES: The aim of this study was to investigate and validate the performance of 
+      individual and ensemble machine learning models (EMLMs) based on magnetic resonance 
+      imaging (MRI) to predict neo-adjuvant chemoradiation therapy (nCRT) response in 
+      rectal cancer patients. We also aimed to study the effect of Laplacian of Gaussian 
+      (LOG) filter on EMLMs predictive performance. METHODS: 98 rectal cancer patients 
+      were divided into a training (n = 53) and a validation set (n = 45). All patients 
+      underwent MRI a week before nCRT. Several features from intensity, shape and texture 
+      feature sets were extracted from MR images. SVM, Bayesian network, neural network 
+      and KNN classifiers were used individually and together for response prediction. 
+      Predictive performance was evaluated using the area under the receiver operator 
+      characteristic (ROC) curve (AUC). RESULTS: Patients' nCRT responses included 17 
+      patients with Grade 0, 28 with Grade 1, 34 with Grade 2, and 19 with Grade 3 
+      according to AJCC/CAP pathologic grading. In without preprocessing MR Image the best 
+      result was for Bayesian network classifier with AUC and accuracy of 75.2% and 80.9% 
+      respectively, which was confirmed in the validation set with an AUC and accuracy of 
+      74% and 79% respectively. In EMLMs the best result was for 4 (SVM.NN.BN.KNN) 
+      classifier EMLM with AUC and accuracy of 97.8% and 92.8% in testing and 95% and 90% 
+      in validation set respectively. CONCLUSIONS: In conclusion, we observed that machine 
+      learning methods can used to predict nCRT response in patients with rectal cancer. 
+      Preprocessing LOG filters and EL models can improve the prediction process.
+CI  - Copyright © 2019 Associazione Italiana di Fisica Medica. Published by Elsevier Ltd. 
+      All rights reserved.
+FAU - Shayesteh, Sajad P
+AU  - Shayesteh SP
+AD  - Department of Physiology, Pharmacology and Medical Physics, Faculty of Medicine, 
+      Alborz University of Medical Sciences, Karaj, Iran.
+FAU - Alikhassi, Afsaneh
+AU  - Alikhassi A
+AD  - Department of Radiology, Cancer Institute of Iran, Tehran University of Medical 
+      Sciences, Tehran, Iran.
+FAU - Fard Esfahani, Armaghan
+AU  - Fard Esfahani A
+AD  - Research Center for Nuclear Medicine, Shariati Hospital, Tehran University of 
+      Medical Sciences, Tehran, Iran.
+FAU - Miraie, M
+AU  - Miraie M
+AD  - Cancer Research Centre & Radiation Oncology Department, Cancer Institute, Tehran 
+      University of Medical Sciences, Tehran, Iran.
+FAU - Geramifar, Parham
+AU  - Geramifar P
+AD  - Research Center for Nuclear Medicine, Shariati Hospital, Tehran University of 
+      Medical Sciences, Tehran, Iran.
+FAU - Bitarafan-Rajabi, Ahmad
+AU  - Bitarafan-Rajabi A
+AD  - Cardiovascular Intervention Research Center, Rajaie Cardiovascular Medical and 
+      Research Center, Iran University of Medical Sciences, Tehran, Iran; Echocardiography 
+      Research Center, Rajaie Cardiovascular Medical and Research Center, Iran University 
+      of Medical Sciences, Tehran, Iran.
+FAU - Haddad, Peiman
+AU  - Haddad P
+AD  - Radiation Oncology Research Center, Cancer Institute, Tehran University of Medical 
+      Sciences, Tehran, Iran. Electronic address: haddad@tums.ac.ir.
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+DEP - 20190515
+PL  - Italy
+TA  - Phys Med
+JT  - Physica medica : PM : an international journal devoted to the applications of 
+      physics to medicine and biology : official journal of the Italian Association of 
+      Biomedical Physics (AIFB)
+JID - 9302888
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *Chemoradiotherapy, Adjuvant
+MH  - Female
+MH  - Humans
+MH  - *Machine Learning
+MH  - *Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Rectal Neoplasms/*diagnostic imaging/*therapy
+MH  - Treatment Outcome
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Chemoradiotherapy
+OT  - MRI
+OT  - Machine learning
+OT  - Radiomics
+OT  - Rectal cancer
+EDAT- 2019/06/04 06:00
+MHDA- 2019/11/12 06:00
+CRDT- 2019/06/03 06:00
+PHST- 2018/08/31 00:00 [received]
+PHST- 2019/02/23 00:00 [revised]
+PHST- 2019/03/17 00:00 [accepted]
+PHST- 2019/06/03 06:00 [entrez]
+PHST- 2019/06/04 06:00 [pubmed]
+PHST- 2019/11/12 06:00 [medline]
+AID - S1120-1797(19)30057-2 [pii]
+AID - 10.1016/j.ejmp.2019.03.013 [doi]
+PST - ppublish
+SO  - Phys Med. 2019 Jun;62:111-119. doi: 10.1016/j.ejmp.2019.03.013. Epub 2019 May 15.

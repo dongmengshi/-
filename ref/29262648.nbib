@@ -1,0 +1,79 @@
+PMID- 29262648
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1949-2553 (Electronic)
+IS  - 1949-2553 (Linking)
+VI  - 8
+IP  - 61
+DP  - 2017 Nov 28
+TI  - Predicting survival time of lung cancer patients using radiomic analysis.
+PG  - 104393-104407
+LID - 10.18632/oncotarget.22251 [doi]
+AB  - OBJECTIVES: This study investigates the prediction of Non-small cell lung cancer 
+      (NSCLC) patient survival outcomes based on radiomic texture and shape features 
+      automatically extracted from tumor image data. MATERIALS AND METHODS: Retrospective 
+      analysis involves CT scans of 315 NSCLC patients from The Cancer Imaging Archive 
+      (TCIA). A total of 24 image features are computed from labeled tumor volumes of 
+      patients within groups defined using NSCLC subtype and TNM staging information. 
+      Spearman's rank correlation, Kaplan-Meier estimation and log-rank tests were used to 
+      identify features related to long/short NSCLC patient survival groups. Automatic 
+      random forest classification was used to predict patient survival group from 
+      multivariate feature data. Significance is assessed at P < 0.05 following 
+      Holm-Bonferroni correction for multiple comparisons. RESULTS: Significant 
+      correlations between radiomic features and survival were observed for four clinical 
+      groups: (group, [absolute correlation range]): (large cell carcinoma (LCC) [0.35, 
+      0.43]), (tumor size T2, [0.31, 0.39]), (non lymph node metastasis N0, [0.3, 0.33]), 
+      (TNM stage I, [0.39, 0.48]). Significant log-rank relationships between features and 
+      survival time were observed for three clinical groups: (group, hazard ratio): (LCC, 
+      3.0), (LCC, 3.9), (T2, 2.5) and (stage I, 2.9). Automatic survival prediction 
+      performance (i.e. below/above median) is superior for combined radiomic features 
+      with age-TNM in comparison to standard TNM clinical staging information (clinical 
+      group, mean area-under-the-ROC-curve (AUC)): (LCC, 75.73%), (N0, 70.33%), (T2, 
+      70.28%) and (TNM-I, 76.17%). CONCLUSION: Quantitative lung CT imaging features can 
+      be used as indicators of survival, in particular for patients with 
+      large-cell-carcinoma (LCC), primary-tumor-sizes (T2) and no lymph-node-metastasis 
+      (N0).
+FAU - Chaddad, Ahmad
+AU  - Chaddad A
+AD  - Division of Radiation Oncology, McGill University, Montréal, Canada.
+AD  - The Laboratory for Imagery, Vision and Artificial Intelligence, Ecole de Technologie 
+      Supérieure, Montréal, Canada.
+FAU - Desrosiers, Christian
+AU  - Desrosiers C
+AD  - The Laboratory for Imagery, Vision and Artificial Intelligence, Ecole de Technologie 
+      Supérieure, Montréal, Canada.
+FAU - Toews, Matthew
+AU  - Toews M
+AD  - The Laboratory for Imagery, Vision and Artificial Intelligence, Ecole de Technologie 
+      Supérieure, Montréal, Canada.
+FAU - Abdulkarim, Bassam
+AU  - Abdulkarim B
+AD  - Division of Radiation Oncology, McGill University, Montréal, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20171101
+TA  - Oncotarget
+JT  - Oncotarget
+JID - 101532965
+PMC - PMC5732814
+OTO - NOTNLM
+OT  - NSCLC
+OT  - cancer staging
+OT  - lung cancer
+OT  - radiomics
+OT  - texture features
+COIS- CONFLICTS OF INTEREST The authors declare that they have no conflicts of interest.
+EDAT- 2017/12/22 06:00
+MHDA- 2017/12/22 06:01
+CRDT- 2017/12/22 06:00
+PHST- 2017/05/30 00:00 [received]
+PHST- 2017/10/02 00:00 [accepted]
+PHST- 2017/12/22 06:00 [entrez]
+PHST- 2017/12/22 06:00 [pubmed]
+PHST- 2017/12/22 06:01 [medline]
+AID - 22251 [pii]
+AID - 10.18632/oncotarget.22251 [doi]
+PST - epublish
+SO  - Oncotarget. 2017 Nov 1;8(61):104393-104407. doi: 10.18632/oncotarget.22251. 
+      eCollection 2017 Nov 28.

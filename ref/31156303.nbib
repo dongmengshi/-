@@ -1,0 +1,85 @@
+PMID- 31156303
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1000-9604 (Print)
+IS  - 1993-0631 (Electronic)
+IS  - 1000-9604 (Linking)
+VI  - 31
+IP  - 2
+DP  - 2019 Apr
+TI  - Radiomic features from computed tomography to differentiate invasive pulmonary 
+      adenocarcinomas from non-invasive pulmonary adenocarcinomas appearing as part-solid 
+      ground-glass nodules.
+PG  - 329-338
+LID - 10.21147/j.issn.1000-9604.2019.02.07 [doi]
+AB  - OBJECTIVE: We aim to investigate radiomic imaging features extracted in computed 
+      tomography (CT) images to differentiate invasive pulmonary adenocarcinomas (IPAs) 
+      from non-IPAs appearing as part-solid ground-glass nodules (GGNs), and to 
+      incorporate significant radiomic features with other clinically-assessed features to 
+      develop a diagnostic nomogram model for IPAs. METHODS: This retrospective study was 
+      performed, with Institutional Review Board approval, on 88 patients with a total of 
+      100 part-solid nodules (56 IPAs and 44 non-IPAs) that were surgically confirmed 
+      between February 2014 and November 2016 in the First Affiliated Hospital of China 
+      Medical University. Quantitative radiomic features were computed automatically on 3D 
+      nodule volume segmented from arterial-phase contrast-enhanced CT images. A set of 
+      regular risk factors and visually-assessed qualitative CT imaging features were 
+      compared with the radiomic features using logistic regression analysis. Three 
+      diagnostic models, i.e., a basis model using the clinical factors and qualitative CT 
+      features, a radiomics model using significant radiomic features, and a nomogram 
+      model combining all significant features, were built and compared in terms of 
+      receiver operating characteristic (ROC) curves. Decision curve analysis was 
+      performed for the nomogram model to explore its potential clinical benefit. RESULTS: 
+      In addition to three visually-assessed qualitative imaging features, another three 
+      quantitative features selected from hundreds of radiomic features were found to be 
+      significantly (all P<0.05) associated with IPAs. The diagnostic nomogram model 
+      showed a significantly higher performance [area under the ROC curve (AUC) =0.903] in 
+      differentiating IPAs from non-IPAs than either the basis model (AUC=0.853, P=0.0009) 
+      or the radiomics model (AUC=0.769, P<0.0001). Decision curve analysis indicates a 
+      potential benefit of using such a nomogram model in clinical diagnosis. CONCLUSIONS: 
+      Quantitative radiomic features provide additional information over 
+      clinically-assessed qualitative features for differentiating IPAs from non-IPAs 
+      appearing as GGNs, and a diagnostic nomogram model including all these significant 
+      features may be clinically useful in preoperative strategy planning.
+FAU - Luo, Ting
+AU  - Luo T
+AD  - Department of Radiology, the First Affiliated Hospital of China Medical University, 
+      Shenyang 110000, China.
+FAU - Xu, Ke
+AU  - Xu K
+AD  - Department of Radiology, the First Affiliated Hospital of China Medical University, 
+      Shenyang 110000, China.
+FAU - Zhang, Zheng
+AU  - Zhang Z
+AD  - Department of Radiology, the First Affiliated Hospital of China Medical University, 
+      Shenyang 110000, China.
+FAU - Zhang, Lina
+AU  - Zhang L
+AD  - Department of Radiology, the First Affiliated Hospital of China Medical University, 
+      Shenyang 110000, China.
+FAU - Wu, Shandong
+AU  - Wu S
+AD  - Departments of Radiology, Biomedical Informatics, Bioengineering, and Intelligent 
+      Systems, University of Pittsburgh, Pittsburgh 15106, USA.
+LA  - eng
+PT  - Journal Article
+TA  - Chin J Cancer Res
+JT  - Chinese journal of cancer research = Chung-kuo yen cheng yen chiu
+JID - 9315242
+PMC - PMC6513736
+OTO - NOTNLM
+OT  - Radiomics
+OT  - adenocarcinomas
+OT  - lung
+OT  - tomography; X-ray computed
+EDAT- 2019/06/04 06:00
+MHDA- 2019/06/04 06:01
+CRDT- 2019/06/04 06:00
+PHST- 2019/06/04 06:00 [entrez]
+PHST- 2019/06/04 06:00 [pubmed]
+PHST- 2019/06/04 06:01 [medline]
+AID - cjcr-31-2-329 [pii]
+AID - 10.21147/j.issn.1000-9604.2019.02.07 [doi]
+PST - ppublish
+SO  - Chin J Cancer Res. 2019 Apr;31(2):329-338. doi: 
+      10.21147/j.issn.1000-9604.2019.02.07.

@@ -1,0 +1,114 @@
+PMID- 31166787
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190701
+LR  - 20210109
+IS  - 1748-880X (Electronic)
+IS  - 0007-1285 (Print)
+IS  - 0007-1285 (Linking)
+VI  - 92
+IP  - 1099
+DP  - 2019 Jul
+TI  - Non-invasive classification of non-small cell lung cancer: a comparison between 
+      random forest models utilising radiomic and semantic features.
+PG  - 20190159
+LID - 10.1259/bjr.20190159 [doi]
+LID - 20190159
+AB  - OBJECTIVE: Non-invasive distinction between squamous cell carcinoma and 
+      adenocarcinoma subtypes of non-small-cell lung cancer (NSCLC) may be beneficial to 
+      patients unfit for invasive diagnostic procedures or when tissue is insufficient for 
+      diagnosis. The purpose of our study was to compare the performance of random forest 
+      algorithms utilizing CT radiomics and/or semantic features in classifying NSCLC. 
+      METHODS: Two thoracic radiologists scored 11 semantic features on CT scans of 106 
+      patients with NSCLC. A set of 115 radiomics features was extracted from the CT 
+      scans. Random forest models were developed from semantic (RM-sem), radiomics 
+      (RM-rad), and all features combined (RM-all). External validation of models was 
+      performed using an independent test data set (n = 100) of CT scans. Model 
+      performance was measured with out-of-bag error and area under curve (AUC), and 
+      compared using receiver-operating characteristics curve analysis on the test data 
+      set. RESULTS: The median (interquartile-range) error rates of the models were: 
+      RF-sem 24.5 % (22.6 - 37.5 %), RF-rad 35.8 % (34.9 - 38.7 %), and RM-all 37.7 % 
+      (37.7 - 37.7). On training data, both RF-rad and RF-all gave perfect discrimination 
+      (AUC = 1), which was significantly higher than that achieved by RF-sem (AUC = 0.78; 
+      p < 0.0001). On test data, however, RM-sem model (AUC = 0.82) out-performed RM-rad 
+      and RM-all (AUC = 0.5 and AUC = 0.56; p < 0.0001), neither of which was 
+      significantly different from random guess ( p = 0.9 and 0.6 respectively). 
+      CONCLUSION: Non-invasive classification of NSCLC can be done accurately using random 
+      forest classification models based on well-known CT-derived descriptive features. 
+      However, radiomics-based classification models performed poorly in this scenario 
+      when tested on independent data and should be used with caution, due to their 
+      possible lack of generalizability to new data. ADVANCES IN KNOWLEDGE: Our study 
+      describes novel CT-derived random forest models based on radiologist-interpretation 
+      of CT scans (semantic features) that can assist NSCLC classification when 
+      histopathology is equivocal or when histopathological sampling is not possible. It 
+      also shows that random forest models based on semantic features may be more useful 
+      than those built from computational radiomic features.
+FAU - Bashir, Usman
+AU  - Bashir U
+AUID- ORCID: 0000-0003-4888-8961
+AD  - 1 Cancer Imaging Department, School of Biomedical Engineering and Imaging Sciences, 
+      King's College London , London , UK.
+FAU - Kawa, Bhavin
+AU  - Kawa B
+AD  - 2 Department of Radiology, Maidstone Hospital, Hermitage Lane , Maidstone , UK.
+FAU - Siddique, Muhammad
+AU  - Siddique M
+AD  - 1 Cancer Imaging Department, School of Biomedical Engineering and Imaging Sciences, 
+      King's College London , London , UK.
+FAU - Mak, Sze Mun
+AU  - Mak SM
+AD  - 3 Department of Radiology, Guy's Hospital, Great Maze Pond , London , UK.
+FAU - Nair, Arjun
+AU  - Nair A
+AD  - 3 Department of Radiology, Guy's Hospital, Great Maze Pond , London , UK.
+FAU - Mclean, Emma
+AU  - Mclean E
+AD  - 4 Department of Pathology, Guy's Hospital and St Thomas' NHS Foundation Trust, 
+      Westminster Bridge Rd, Lambeth , London , UK.
+FAU - Bille, Andrea
+AU  - Bille A
+AD  - 5 Department of Thoracic Surgery, Guy's Hospital, Great Maze Pond , London , UK.
+FAU - Goh, Vicky
+AU  - Goh V
+AD  - 3 Department of Radiology, Guy's Hospital, Great Maze Pond , London , UK.
+FAU - Cook, Gary
+AU  - Cook G
+AD  - 6 PET Imaging Centre and the Division of Imaging Sciences and Biomedical 
+      Engineering, King's College London, , UK.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20190605
+TA  - Br J Radiol
+JT  - The British journal of radiology
+JID - 0373125
+SB  - AIM
+SB  - IM
+MH  - Adenocarcinoma/*diagnostic imaging
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Algorithms
+MH  - Carcinoma, Non-Small-Cell Lung/*diagnostic imaging
+MH  - Carcinoma, Squamous Cell/*diagnostic imaging
+MH  - Female
+MH  - Humans
+MH  - Lung/diagnostic imaging
+MH  - Lung Neoplasms/*diagnostic imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Radiometry
+MH  - Reproducibility of Results
+MH  - Semantics
+MH  - Tomography, X-Ray Computed/*methods
+PMC - PMC6636267
+EDAT- 2019/06/06 06:00
+MHDA- 2019/07/02 06:00
+CRDT- 2019/06/06 06:00
+PHST- 2019/06/06 06:00 [pubmed]
+PHST- 2019/07/02 06:00 [medline]
+PHST- 2019/06/06 06:00 [entrez]
+AID - 10.1259/bjr.20190159 [doi]
+PST - ppublish
+SO  - Br J Radiol. 2019 Jul;92(1099):20190159. doi: 10.1259/bjr.20190159. Epub 2019 Jun 5.

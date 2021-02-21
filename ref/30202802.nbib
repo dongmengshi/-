@@ -1,0 +1,100 @@
+PMID- 30202802
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 2452-1094 (Print)
+IS  - 2452-1094 (Electronic)
+IS  - 2452-1094 (Linking)
+VI  - 3
+IP  - 3
+DP  - 2018 Jul-Sep
+TI  - Radiomics-guided therapy for bladder cancer: Using an optimal biomarker approach to 
+      determine extent of bladder cancer invasion from t2-weighted magnetic resonance 
+      images.
+PG  - 331-338
+LID - 10.1016/j.adro.2018.04.011 [doi]
+AB  - BACKGROUND: Current clinical staging methods are unable to accurately define the 
+      extent of invasion of localized bladder cancer, which affects the proper use of 
+      systemic therapy, surgery, and radiation. Our purpose was to test a novel radiomics 
+      approach to identify optimal imaging biomarkers from T2-weighted magnetic resonance 
+      imaging (MRI) scans that accurately classify localized bladder cancer into 2 tumor 
+      stage groups (≤T2 vs >T2) at both the patient level and within bladder subsectors. 
+      METHOD AND MATERIALS: Preoperative T2-weighted MRI scans of 65 consecutive patients 
+      followed by radical cystectomy were identified. A 3-layer, shell-like volume of 
+      interest (VOI) was defined on each MRI slice: Inner (lumen), middle (bladder wall), 
+      and outer (perivesical tissue). An optimal biomarker method was used to identify 
+      features from 15,834 intensity and texture properties that maximized the 
+      classification of patients into ≤T2 versus >T2 groups. A leave-one-out strategy was 
+      used to cross-validate the performance of the identified biomarker feature set at 
+      the patient level. The performance of the feature set was then evaluated at the 
+      subsector level of the bladder by dividing the VOIs into 8 radial sectors. RESULTS: 
+      A total of 9 optimal biomarker features were derived and demonstrated a sensitivity, 
+      specificity, accuracy of prediction, and area under a receiver operating 
+      characteristic curve of 0.742, 0.824, 0.785, and 0.806, respectively, at the patient 
+      level and 0.681, 0.788, 0.763, and 0.813, respectively, at the radial sector level. 
+      All 9 selected features were extracted from the middle shell of the VOI and based on 
+      texture properties. CONCLUSIONS: An approach to select a small, highly independent 
+      feature set that is derived from T2-weighted MRI scans that separate patients with 
+      bladder cancer into ≤T2 versus >T2 groups at both the patient level and within 
+      subsectors of the bladder has been developed and tested. With external validation, 
+      this radiomics approach could improve the clinical staging of bladder cancer and 
+      optimize therapeutic management.
+FAU - Tong, Yubing
+AU  - Tong Y
+AD  - Medical Image Processing Group, Department of Radiology, University of Pennsylvania, 
+      Philadelphia, Pennsylvania.
+FAU - Udupa, Jayaram K
+AU  - Udupa JK
+AD  - Medical Image Processing Group, Department of Radiology, University of Pennsylvania, 
+      Philadelphia, Pennsylvania.
+FAU - Wang, Chuang
+AU  - Wang C
+AD  - Medical Image Processing Group, Department of Radiology, University of Pennsylvania, 
+      Philadelphia, Pennsylvania.
+FAU - Chen, Jerry
+AU  - Chen J
+AD  - The Perelman Center for Advanced Medicine, Department of Radiation Oncology, 
+      University of Pennsylvania, Philadelphia, Pennsylvania.
+FAU - Venigalla, Sriram
+AU  - Venigalla S
+AD  - The Perelman Center for Advanced Medicine, Department of Radiation Oncology, 
+      University of Pennsylvania, Philadelphia, Pennsylvania.
+FAU - Guzzo, Thomas J
+AU  - Guzzo TJ
+AD  - The Perelman Center for Advanced Medicine, Department of Urology, University of 
+      Pennsylvania, Philadelphia, Pennsylvania.
+FAU - Mamtani, Ronac
+AU  - Mamtani R
+AD  - The Perelman Center for Advanced Medicine, Department of Medicine, University of 
+      Pennsylvania, Philadelphia, Pennsylvania.
+FAU - Baumann, Brian C
+AU  - Baumann BC
+AD  - Washington University School of Medicine, St. Louis, Missouri.
+FAU - Christodouleas, John P
+AU  - Christodouleas JP
+AD  - The Perelman Center for Advanced Medicine, Department of Radiation Oncology, 
+      University of Pennsylvania, Philadelphia, Pennsylvania.
+FAU - Torigian, Drew A
+AU  - Torigian DA
+AD  - Medical Image Processing Group, Department of Radiology, University of Pennsylvania, 
+      Philadelphia, Pennsylvania.
+LA  - eng
+PT  - Journal Article
+DEP - 20180508
+TA  - Adv Radiat Oncol
+JT  - Advances in radiation oncology
+JID - 101677247
+PMC - PMC6128093
+EDAT- 2018/09/12 06:00
+MHDA- 2018/09/12 06:01
+CRDT- 2018/09/12 06:00
+PHST- 2018/04/23 00:00 [received]
+PHST- 2018/04/28 00:00 [accepted]
+PHST- 2018/09/12 06:00 [entrez]
+PHST- 2018/09/12 06:00 [pubmed]
+PHST- 2018/09/12 06:01 [medline]
+AID - S2452-1094(18)30074-5 [pii]
+AID - 10.1016/j.adro.2018.04.011 [doi]
+PST - epublish
+SO  - Adv Radiat Oncol. 2018 May 8;3(3):331-338. doi: 10.1016/j.adro.2018.04.011. 
+      eCollection 2018 Jul-Sep.

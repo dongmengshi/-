@@ -1,0 +1,93 @@
+PMID- 28418006
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181127
+LR  - 20181127
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 7
+DP  - 2017 Apr 18
+TI  - Radiomics-based Prognosis Analysis for Non-Small Cell Lung Cancer.
+PG  - 46349
+LID - 10.1038/srep46349 [doi]
+LID - 46349
+AB  - Radiomics characterizes tumor phenotypes by extracting large numbers of quantitative 
+      features from radiological images. Radiomic features have been shown to provide 
+      prognostic value in predicting clinical outcomes in several studies. However, 
+      several challenges including feature redundancy, unbalanced data, and small sample 
+      sizes have led to relatively low predictive accuracy. In this study, we explore 
+      different strategies for overcoming these challenges and improving predictive 
+      performance of radiomics-based prognosis for non-small cell lung cancer (NSCLC). CT 
+      images of 112 patients (mean age 75 years) with NSCLC who underwent stereotactic 
+      body radiotherapy were used to predict recurrence, death, and recurrence-free 
+      survival using a comprehensive radiomics analysis. Different feature selection and 
+      predictive modeling techniques were used to determine the optimal configuration of 
+      prognosis analysis. To address feature redundancy, comprehensive analysis indicated 
+      that Random Forest models and Principal Component Analysis were optimum predictive 
+      modeling and feature selection methods, respectively, for achieving high prognosis 
+      performance. To address unbalanced data, Synthetic Minority Over-sampling technique 
+      was found to significantly increase predictive accuracy. A full analysis of variance 
+      showed that data endpoints, feature selection techniques, and classifiers were 
+      significant factors in affecting predictive accuracy, suggesting that these factors 
+      must be investigated when building radiomics-based predictive models for cancer 
+      prognosis.
+FAU - Zhang, Yucheng
+AU  - Zhang Y
+AD  - Dept. of Medical Imaging, Sunnybrook Research Institute, University of Toronto, 
+      Toronto, ON, Canada.
+FAU - Oikonomou, Anastasia
+AU  - Oikonomou A
+AD  - Dept. of Medical Imaging, Sunnybrook Research Institute, University of Toronto, 
+      Toronto, ON, Canada.
+FAU - Wong, Alexander
+AU  - Wong A
+AD  - Dept. of Systems Design Engineering, University of Waterloo, Waterloo, ON, Canada.
+FAU - Haider, Masoom A
+AU  - Haider MA
+AD  - Dept. of Medical Imaging, Sunnybrook Research Institute, University of Toronto, 
+      Toronto, ON, Canada.
+FAU - Khalvati, Farzad
+AU  - Khalvati F
+AD  - Dept. of Medical Imaging, Sunnybrook Research Institute, University of Toronto, 
+      Toronto, ON, Canada.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170418
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Analysis of Variance
+MH  - Area Under Curve
+MH  - Biomarkers
+MH  - Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/*mortality
+MH  - Female
+MH  - Humans
+MH  - Image Processing, Computer-Assisted
+MH  - Lung Neoplasms/*diagnostic imaging/*mortality
+MH  - Male
+MH  - Medical Informatics
+MH  - Middle Aged
+MH  - Prognosis
+MH  - Reproducibility of Results
+MH  - Retrospective Studies
+MH  - Software
+MH  - Tomography, X-Ray Computed
+PMC - PMC5394465
+COIS- The authors declare no competing financial interests.
+EDAT- 2017/04/19 06:00
+MHDA- 2018/11/28 06:00
+CRDT- 2017/04/19 06:00
+PHST- 2016/11/07 00:00 [received]
+PHST- 2017/03/14 00:00 [accepted]
+PHST- 2017/04/19 06:00 [entrez]
+PHST- 2017/04/19 06:00 [pubmed]
+PHST- 2018/11/28 06:00 [medline]
+AID - srep46349 [pii]
+AID - 10.1038/srep46349 [doi]
+PST - epublish
+SO  - Sci Rep. 2017 Apr 18;7:46349. doi: 10.1038/srep46349.

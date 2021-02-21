@@ -1,0 +1,132 @@
+PMID- 31059768
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200103
+LR  - 20201207
+IS  - 1873-5894 (Electronic)
+IS  - 0730-725X (Print)
+IS  - 0730-725X (Linking)
+VI  - 61
+DP  - 2019 Sep
+TI  - Machine learning for prediction of chemoradiation therapy response in rectal cancer 
+      using pre-treatment and mid-radiation multi-parametric MRI.
+PG  - 33-40
+LID - S0730-725X(19)30145-6 [pii]
+LID - 10.1016/j.mri.2019.05.003 [doi]
+AB  - PURPOSE: To predict the neoadjuvant chemoradiation therapy (CRT) response in 
+      patients with locally advanced rectal cancer (LARC) using radiomics and deep 
+      learning based on pre-treatment MRI and a mid-radiation follow-up MRI taken 
+      3-4 weeks after the start of CRT. METHODS: A total of 51 patients were included, 45 
+      with pre-treatment, 41 with mid-radiation therapy (RT), and 35 with both MRI sets. 
+      The multi-parametric MRI protocol included T2, diffusion weighted imaging (DWI) with 
+      b-values of 0 and 800 s/mm(2), and dynamic-contrast-enhanced (DCE) MRI. After 
+      completing CRT and surgery, the specimen was examined to determine the pathological 
+      response based on the tumor regression grade. The tumor ROI was manually drawn on 
+      the post-contrast image and mapped to other sequences. The total tumor volume and 
+      mean apparent diffusion coefficient (ADC) were measured. Radiomics using GLCM 
+      texture and histogram parameters, and deep learning using a convolutional neural 
+      network (CNN), were performed to differentiate pathologic complete response (pCR) 
+      vs. non-pCR, and good response (GR) vs. non-GR. RESULTS: Tumor volume decreased and 
+      ADC increased significantly in the mid-RT MRI compared to the pre-treatment MRI. For 
+      predicting pCR vs. non-pCR, combining ROI and radiomics features achieved an AUC of 
+      0.80 for pre-treatment, 0.82 for mid-RT, and 0.86 for both MRI together. For 
+      predicting GR vs. non-GR, the AUC was 0.91 for pre-treatment, 0.92 for mid-RT, and 
+      0.93 for both MRI together. In deep learning using CNN, combining pre-treatment and 
+      mid-RT MRI achieved a higher accuracy compared to using either dataset alone, with 
+      AUC of 0.83 for predicting pCR vs. non-pCR. CONCLUSION: Radiomics based on 
+      pre-treatment and early follow-up multi-parametric MRI in LARC patients receiving 
+      CRT could extract comprehensive quantitative information to predict final pathologic 
+      response.
+CI  - Copyright © 2019. Published by Elsevier Inc.
+FAU - Shi, Liming
+AU  - Shi L
+AD  - Department of Radiation Oncology, Sir Run Run Shaw Hospital, Zhejiang University 
+      School of Medicine, Hangzhou, China.
+FAU - Zhang, Yang
+AU  - Zhang Y
+AD  - Department of Radiological Sciences, University of California, Irvine, CA, USA.
+FAU - Nie, Ke
+AU  - Nie K
+AD  - Department of Radiation Oncology, Rutgers-The State University of New Jersey, New 
+      Brunswick, NJ, USA. Electronic address: kn231@cinj.rutgers.edu.
+FAU - Sun, Xiaonan
+AU  - Sun X
+AD  - Department of Radiation Oncology, Sir Run Run Shaw Hospital, Zhejiang University 
+      School of Medicine, Hangzhou, China. Electronic address: sunxiaonan@zju.edu.cn.
+FAU - Niu, Tianye
+AU  - Niu T
+AD  - Department of Radiation Oncology, Sir Run Run Shaw Hospital, Zhejiang University 
+      School of Medicine, Hangzhou, China.
+FAU - Yue, Ning
+AU  - Yue N
+AD  - Department of Radiation Oncology, Rutgers-The State University of New Jersey, New 
+      Brunswick, NJ, USA.
+FAU - Kwong, Tiffany
+AU  - Kwong T
+AD  - Department of Radiological Sciences, University of California, Irvine, CA, USA.
+FAU - Chang, Peter
+AU  - Chang P
+AD  - Department of Radiological Sciences, University of California, Irvine, CA, USA.
+FAU - Chow, Daniel
+AU  - Chow D
+AD  - Department of Radiological Sciences, University of California, Irvine, CA, USA.
+FAU - Chen, Jeon-Hor
+AU  - Chen JH
+AD  - Department of Radiological Sciences, University of California, Irvine, CA, USA; 
+      Department of Radiology, E-Da Hospital and I-Shou University, Kaohsiung, Taiwan.
+FAU - Su, Min-Ying
+AU  - Su MY
+AD  - Department of Radiological Sciences, University of California, Irvine, CA, USA. 
+      Electronic address: msu@uci.edu.
+LA  - eng
+GR  - P30 CA062203/CA/NCI NIH HHS/United States
+GR  - P30 CA072720/CA/NCI NIH HHS/United States
+GR  - R01 CA127927/CA/NCI NIH HHS/United States
+GR  - R21 CA208938/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190503
+TA  - Magn Reson Imaging
+JT  - Magnetic resonance imaging
+JID - 8214883
+RN  - 0 (Contrast Media)
+SB  - IM
+MH  - Chemoradiotherapy/*methods
+MH  - Contrast Media
+MH  - Diffusion Magnetic Resonance Imaging/*methods
+MH  - Female
+MH  - Humans
+MH  - Image Enhancement/methods
+MH  - *Machine Learning
+MH  - Male
+MH  - Middle Aged
+MH  - Multiparametric Magnetic Resonance Imaging/*methods
+MH  - Predictive Value of Tests
+MH  - Rectal Neoplasms/*diagnostic imaging/pathology/*therapy
+MH  - Rectum/diagnostic imaging/pathology
+MH  - Reproducibility of Results
+MH  - Treatment Outcome
+MH  - Tumor Burden
+PMC - PMC7709818
+MID - NIHMS1648762
+OTO - NOTNLM
+OT  - *Convolutional neural network
+OT  - *Locally advanced rectal cancer
+OT  - *Multi-parametric MRI
+OT  - *Neoadjuvant chemoradiation therapy
+OT  - *Radiomics
+EDAT- 2019/05/07 06:00
+MHDA- 2020/01/04 06:00
+CRDT- 2019/05/07 06:00
+PHST- 2019/03/02 00:00 [received]
+PHST- 2019/04/24 00:00 [revised]
+PHST- 2019/05/02 00:00 [accepted]
+PHST- 2019/05/07 06:00 [pubmed]
+PHST- 2020/01/04 06:00 [medline]
+PHST- 2019/05/07 06:00 [entrez]
+AID - S0730-725X(19)30145-6 [pii]
+AID - 10.1016/j.mri.2019.05.003 [doi]
+PST - ppublish
+SO  - Magn Reson Imaging. 2019 Sep;61:33-40. doi: 10.1016/j.mri.2019.05.003. Epub 2019 May 
+      3.
